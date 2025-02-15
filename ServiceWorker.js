@@ -1,9 +1,9 @@
 const cacheName = "Tech-Ultra Bowling Alley-0.1a";
 const contentToCache = [
-    "Build/1402V1.loader.js",
-    "Build/1402V1.framework.js",
-    "Build/1402V1.data",
-    "Build/1402V1.wasm",
+    "Build/15_2_25WebGL_VR_build.loader.js",
+    "Build/15_2_25WebGL_VR_build.framework.js",
+    "Build/15_2_25WebGL_VR_build.data",
+    "Build/15_2_25WebGL_VR_build.wasm",
     "TemplateData/style.css"
 
 ];
