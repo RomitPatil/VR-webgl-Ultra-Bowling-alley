@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Ultra Bowling Alley-0.1.0";
+const cacheName = "Tech-Ultra Bowling Alley-0.1a";
 const contentToCache = [
     "Build/1402V1.loader.js",
     "Build/1402V1.framework.js",
