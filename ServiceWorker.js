@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Ultra Bowling Alley-0.1.0";
 const contentToCache = [
     "Build/1402V1.loader.js",
-    "Build/1402V1.framework.js.br",
-    "Build/1402V1.data.br",
-    "Build/1402V1.wasm.br",
+    "Build/1402V1.framework.js",
+    "Build/1402V1.data",
+    "Build/1402V1.wasm",
     "TemplateData/style.css"
 
 ];
